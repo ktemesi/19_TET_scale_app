@@ -8,7 +8,7 @@ See https://en.wikipedia.org/wiki/19_equal_temperament.
 
 Installation
 
-Install MobMuPlat from Google Play.
+Install MobMuPlat from Google Play or Apple App Store.
 Copy the 2 files to the MobMuPlat folder (\\Internal shared storage\MobMuPlat).
 
 Usage
@@ -20,3 +20,6 @@ References
 
 A 19-Tone Scale Synthesizer by Christian Lindeborg and Christoffer Sandberg
 (https://www.csc.kth.se/utbildning/kandidatexjobb/datateknik/2011)
+
+Mobile Music Platform
+(https://danieliglesia.com/mobmuplat)
