@@ -4,19 +4,17 @@
 
 Background
 
-TBD
-
-Requirements
-
-TBD
+See https://en.wikipedia.org/wiki/19_equal_temperament.
 
 Installation
 
-TBD
+Install MobMuPlat from Google Play.
+Copy the 2 files to the MobMuPlat folder (\\Internal shared storage\MobMuPlat).
 
 Usage
 
-TBD
+Start MobMuPlat and open file 19_TET_scale.mmp.
+Play.
 
 References
 
